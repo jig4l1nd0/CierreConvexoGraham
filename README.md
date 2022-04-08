@@ -1,5 +1,5 @@
 # Cierre Convexo Graham
-2022-04-08
+J.Galindo 2022-04-08
 
 Implementaciones del curso de Geometría Computacional 
 
@@ -51,4 +51,5 @@ En este caso, el programa generará un conjunto de puntos aleatorios con coorden
 
 #### Resultado 
 El programa despliega una gráfica que muestra los puntos del conjunto original y su cierre convexo 
+
 ![Figure_1](https://user-images.githubusercontent.com/79530376/162401554-36cf629b-4ebf-4345-882b-9c772bf60743.png)
