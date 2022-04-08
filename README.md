@@ -1,2 +1,4 @@
-# GeoComp
-Implementaciones del curso de Geometría Diferencial
+# Cierre Convexo Graham
+Implementaciones del curso de Geometría Computacional
+
+
